@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bea.
-- 👀 I’m interested in front-end development and artificial intelligence.
 - 🌱 I’m a 2nd year BS Computer Science student in UP Diliman.
+- 👀 I’m interested in front-end development and artificial intelligence.
 - 📫 How to reach me:
   - Email: dioknobea@gmail.com
   - Facebook: https://www.facebook.com/dioknobea/
