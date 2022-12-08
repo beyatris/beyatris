@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bea.
-- 🌱 I’m a 4th year BS Computer Science student in UP Diliman.
+- 🌱 I’m a 4th year BS Computer Science student in UP Diliman, and an aspiring full-stack developer.
 - 📫 How to reach me:
   - Email: dioknobea@gmail.com
   - Facebook: https://www.facebook.com/dioknobea/
